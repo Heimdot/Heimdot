@@ -2,7 +2,7 @@
 
 ### Software Developer
 
-**Backend Development · Cybersecurity · Linux Systems**
+**Backend Development · Cybersecurity**
 
 ---
 
